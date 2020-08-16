@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#92e2fd</color>
+    <color name="colorPrimaryDark">#4a90e2</color>
+    <color name="colorAccent">#f5a623</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBackground">#f5f7f7</color>
+    <color name="font_color">#42436a</color>
+    <color name="light_font">#939399</color>
+    <color name="very_light_font">#ababab</color>
+    <color name="green_font">#23c03d</color>
+    <color name="blue_font">#4a90e2</color>
+    <color name="saldo_font_color">#92e2fd</color>
+</resources>

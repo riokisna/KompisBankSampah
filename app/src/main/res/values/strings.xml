@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Kompis Bank Sampah</string>
+    <string name="app_name2">Bank Sampah Berkah</string>
+    <string name="dasboard_string">Manage Saldo Sampah Anda :</string>
+    <string name="saldo_kompis">Saldo Kompis</string>
+    <string name="Rp">Rp</string>
+    <string name="ex_saldo">290.000</string>
+    <string name="poin_kompis">Poin Kompis</string>
+    <string name="ex_poin">20.000</string>
+    <string name="history">History</string>
+    <string name="transfer">Transfer</string>
+    <string name="tarik">Tarik Tunai</string>
+    <string name="menu_string">Menu bank sampah kompis</string>
+    <string name="transaksi">Transaksi\nNasabah</string>
+    <string name="jual">Jual\nSampah</string>
+    <string name="kategori">Kategori\nSampah</string>
+    <string name="laporan">Laporan\nSampah</string>
+    <string name="contact">Daftar\nContact</string>
+    <string name="pengurus">Struktur\nPengurus</string>
+    <string name="tukar">Tukar Poin\nKompis</string>
+    <string name="tabel_harga">Tabel Harga\nKompis</string>
+    <string name="promo_string">Info &amp; Promo</string>
+    <string name="info_string">Semua info dan promo yang ada di kompis</string>
+    <string name="lihat">Lihat Semua</string>
+    <string name="list_penjemputan">List Penjemputan</string>
+    <string name="ex_date">25 May 2019, 09:00 AM</string>
+    <string name="ex_id">ID8983372</string>
+    <string name="ex_kategori">Kertas. Dupleks; Kertas Buku;</string>
+    <string name="ex_open">Open 24 Hours</string>
+    <string name="ex_distance">30M</string>
+    <string name="ex_nasabah">[ Nama Nasabah ]</string>
+    <string name="proses">Sedang diproses</string>
+
+</resources>
