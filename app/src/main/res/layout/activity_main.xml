@@ -131,9 +131,9 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_alignParentEnd="true"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
                     android:layout_weight="1"
                     android:orientation="vertical">
 
@@ -236,7 +236,10 @@
                 <RelativeLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_weight="1">
+                    android:layout_weight="1"
+                    android:background="@drawable/ripple_bg"
+                    android:clickable="true"
+                    android:focusable="true">
 
                     <LinearLayout
                         android:id="@+id/btn_history"
@@ -266,7 +269,10 @@
                 <RelativeLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_weight="1">
+                    android:layout_weight="1"
+                    android:background="@drawable/ripple_bg"
+                    android:clickable="true"
+                    android:focusable="true">
 
                     <LinearLayout
                         android:id="@+id/btn_transfer"
@@ -296,7 +302,10 @@
                 <RelativeLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_weight="1">
+                    android:layout_weight="1"
+                    android:background="@drawable/ripple_bg"
+                    android:clickable="true"
+                    android:focusable="true">
 
                     <LinearLayout
                         android:id="@+id/btn_tarik"
@@ -362,7 +371,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -390,7 +401,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -418,7 +431,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -446,7 +461,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -481,7 +498,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -509,7 +528,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -537,7 +558,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -565,7 +588,9 @@
                     android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:background="@drawable/bg_menu"
+                    android:clickable="true"
                     android:elevation="5dp"
+                    android:focusable="true"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -669,7 +694,7 @@
         <RelativeLayout
             android:id="@+id/layoutList"
             android:layout_width="match_parent"
-            android:layout_height="22dp"
+            android:layout_height="wrap_content"
             android:layout_marginHorizontal="10dp"
             android:layout_marginTop="11dp"
             android:gravity="center_vertical"
